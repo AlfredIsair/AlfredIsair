@@ -1,16 +1,35 @@
-### Hi there 👋
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://utkarshx27.wallet)
 
-<!--
-**AliIsair/AliIsair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Alfred Isair</h1>
+<h3 align="center">A passionate Data scientist</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-Here are some ideas to get you started:
+- 💬 Skills **Python, SQL, Machine Learning, Natural Language Processing, Data visualization, Spark NLP, Deep Learning, Tableau, TensorFlow, Keras, Power BI, Azure Machine Learning Studio**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **isairalfred@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="www.linkedin.com/in/alfred-isair-37a608268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshx27" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/isairalfred" target="blank"><img align="center"
+                                                                
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow" alt="tensorflow" width="40" height="40" /></a>
+  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="nltk" width="40" height="40" /></a>
+  <a href="https://sparknlp.com/" target="_blank" rel="noreferrer"><img src="https://d4.alternativeto.net/n3ZOwhkWN4MfcjgR7o-OPFHqC-pQuK46uqisiLUmcqo/rs:fill:140:140:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9zcGFjeV8xNTQxNDYucG5n.png" alt="Spark NLP" width="40" height="40" /></a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" alt="tableau" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" /></a>
+  <a href="https://studio.azureml.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ant-design/ant-design-icons/master/packages/icons-svg/svg/outline/azure.svg" alt="Azure ML Studio" width="40" height="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliIsair&show_icons=true&locale=en&layout=compact" alt="AliIsair" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AliIsair" alt="AliIsair" /></a> </p>
+
