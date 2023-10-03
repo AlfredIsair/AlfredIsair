@@ -24,6 +24,6 @@
   <a href="https://azure.microsoft.com/en-us/services/cognitive-services/language/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/25946165?s=200&v=4" alt="Microsoft Azure AI" width="40" height="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliIsair&show_icons=true&locale=en&layout=compact" alt="AliIsair" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlfredIsair&show_icons=true&locale=en&layout=compact" alt="AlfredIsair" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AliIsair" alt="AliIsair" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlfredIsair" alt="AlfredIsair" /></a> </p>
