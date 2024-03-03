@@ -13,7 +13,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src=""https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /></a>
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="nltk" width="40" height="40" /></a>
   <a href="https://sparknlp.com/" target="_blank" rel="noreferrer"><img src="https://d4.alternativeto.net/n3ZOwhkWN4MfcjgR7o-OPFHqC-pQuK46uqisiLUmcqo/rs:fill:140:140:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9zcGFjeV8xNTQxNDYucG5n.png" alt="Spark NLP" width="40" height="40" /></a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40" /></a>
