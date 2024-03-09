@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **isairalfred@gmail.com**
 
--  **I am currently learning** - LLMs Fine-Tuning and GenAI
+-  **I am currently working on** - LLMs Fine-Tuning and GenAI
 
 
 <h3 align="left">Languages and Tools:</h3>
