@@ -8,10 +8,10 @@
 
 - 📫 How to reach me **isairalfred@gmail.com**
 
-- ### I am currently learning...
+- #### I am currently learning...
 - LLMs Fine-Tuning
 
-### I am currently working on...
+#### I am currently working on 
 - Building a sentiment analysis model using Spark NLP
 
 <h3 align="left">Languages and Tools:</h3>
